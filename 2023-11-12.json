@@ -1,0 +1,26 @@
+{
+  "name": "Bradley Meyer",
+  "age": 42,
+  "address": {
+    "street": "Ivpan Pike",
+    "city": "Zahjeca",
+    "state": "MA",
+    "zip": "23920"
+  },
+  "contact": {
+    "phone": "(765) 834-5343",
+    "servicePhone": "800765937"
+  },
+  "birthday": "1982-02-16T09:51:02.089Z",
+  "ip": "48.161.65.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Avnumuw acu fagboh idjoego abenvis bo arifoah navrosda hukusa tidwatoh hez huwot hanpema. Ci vo tuadaini nuzzapiw anin ej fik ri ha vuv corow ed. Liahe wonhamem cejimnu roc cacbip bas ganvechaf rodikiv mu ug pakfeniba icesafi vibsof fiwobat. Velset mir irivuwbub zu ovmislap uvesazuc runrew wukok umuga cewle gawgulhep awi ijo vad mumko je cuda. Pi zu vivu ecpib sozuwtiv ben pucveuk iwega alo semdip iniubi hemakto tag siji hoba woro haf. Rindez obmij dufse aza edi duzguz fir copbuace celirja ugo lanjedefi bivdu.",
+    "bio": "Cohkata sibmucep vazjefci dan teot zipav zasdiwroh japfozo vam kekoc kib nu su oli. Ver benuw nit ridsu puvuk zo ejepugkes vati hic ponuhkov ca tago. Tibzi wasigaj guawujam norisma god zizapbi lulcek lopsate mom lohuluk da pettevdep."
+  },
+  "apiKey": "db25129af8c3c3ae23b391b4e653851021a229d9c40dc8d08657a338e35a7ca9",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
