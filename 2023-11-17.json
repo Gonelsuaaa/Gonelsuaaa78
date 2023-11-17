@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Powell",
+  "age": 34,
+  "address": {
+    "street": "Vihu Glen",
+    "city": "Uppehjus",
+    "state": "MA",
+    "zip": "49049"
+  },
+  "contact": {
+    "phone": "(374) 395-8349",
+    "servicePhone": "800247719"
+  },
+  "birthday": "1993-03-07T01:56:43.585Z",
+  "ip": "46.68.0.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Fatrit use wu hunejzod lopvajis zug ufofovpef no jiepa tis aworlom hupawfu bipwav maic joocvam. Gopegi suc joh watjo merziv erzadera fi ur hotso hofupe fetni luntiip. Iziopejo dizkibig wewefvid uvajutfe cen amolojoc zecev zoule wim lagevjih osfo rusiwnih. Tatgeitu ronti gah hufu huvmoz wabsuw roc luz cozhar hulap kitdul ja ca ehafu.",
+    "bio": "Aseci lihki je doz wokfa ber eniorfa we havole fe lecu anugutneh jipubi usilivce ga lup. Dezomu hok kuce luku du ejlu co gufnopita zugoc mujisako uwowor kusok. Lilof ben zipezo gesmaw nuer kuhsu bivumuza acoral ewiroizo valo bacnatu eg no."
+  },
+  "apiKey": "d9a07dac93c148a3d1041a6443a1d9f25012fc06121072379fcee93eeed4ce6d",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
