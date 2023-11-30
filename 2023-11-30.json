@@ -1,0 +1,26 @@
+{
+  "name": "Katie Lawson",
+  "age": 34,
+  "address": {
+    "street": "Didbed Avenue",
+    "city": "Fiigma",
+    "state": "SD",
+    "zip": "80006"
+  },
+  "contact": {
+    "phone": "(886) 784-5924",
+    "servicePhone": "800288354"
+  },
+  "birthday": "1968-04-16T15:38:05.192Z",
+  "ip": "119.161.132.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Kusebika elhoami akbob azeis kiiftuk gazav kit evneub ap esugu daciom gozdilebo lalicon isozit ho ugkirvuw. Olekilov curolakad mahupru hu bo hum dufazur bavid ur fe buzal tezocot ja fe dabukpo. Fuekutah mumat ot jan li op jebdocaga ekateluh gamiso gamihpi nifwuki noguma uhben uceroplit du rujzo wi kogommu. Ludiggi momucoki bata hi mahonooje rainu wu awguer eni zi jaz mo gerubzam.",
+    "bio": "Bacim giw podgah biv umsulku pur icubar malad vuh gu awafokus ojcuiti tahje emupuw. Muz biz palku tu war son tabobow ajra dunehpam epo oj orimwi cidivu lepiluk fufec saru iwsa umo. Mavundi vi azoelo nivheb bo rejjitbi jomvanbe vikjib co uraod roke na."
+  },
+  "apiKey": "a8a0ea562de5fd00704da4a86ac8a38a058bbdbd44cf46990afc377098a2a059",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
