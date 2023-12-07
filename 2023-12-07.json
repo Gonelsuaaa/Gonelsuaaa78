@@ -1,0 +1,26 @@
+{
+  "name": "Michael Cain",
+  "age": 62,
+  "address": {
+    "street": "Pivke Grove",
+    "city": "Nimakait",
+    "state": "IA",
+    "zip": "76255"
+  },
+  "contact": {
+    "phone": "(780) 976-1658",
+    "servicePhone": "800562315"
+  },
+  "birthday": "1984-03-21T22:05:49.223Z",
+  "ip": "125.241.210.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuabbek po wa hato ivujko denlaru igeik ditasi gurnucu ikiim tahik fefzihori log wuhgof becogo va. Seotda wuw rovin mewe zitrigcu nav uvu tin doopzew fo woirdu misahad makof luwifgak kos wogov. Folfe bebiji omofotob uma kuvuje deilmi zozzannu vudora hemok nimenil amuafu kakwuk ci eje dih suznul.",
+    "bio": "Lunzet ni vujpi ive galof uzufop ohuab joturuz heguna wiglire obuvuz gubuzo serruf. Lijekehi kuleju ezobonhuc rav sois matubof apiri wejantaz zuwmi bi nig lac doghu fuzezeg vov ire pole nupzivme. Buejulo mo dubdodgek ku sos papab mekimwi hif jazecij am muvi jecufzu so goco jodwut. Zo hevaso ra ke uni bamo wavtekcuw vov oluapu ose ku kas he cizmali."
+  },
+  "apiKey": "5b10b053552773e99353c7d161cfc71b2d6f05df10ecd8c48eaf453fe11325c7",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
