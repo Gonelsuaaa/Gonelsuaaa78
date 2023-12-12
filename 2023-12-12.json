@@ -1,0 +1,26 @@
+{
+  "name": "Fannie Murphy",
+  "age": 55,
+  "address": {
+    "street": "Akibi Road",
+    "city": "Nuotsu",
+    "state": "IN",
+    "zip": "24341"
+  },
+  "contact": {
+    "phone": "(565) 629-7822",
+    "servicePhone": "800347657"
+  },
+  "birthday": "1975-04-12T20:04:42.486Z",
+  "ip": "80.56.70.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Sap wah onuc lum ogi lakonmuh diseh kuf ap kuece walcub wep. Ogo eblaste civsowi cicfa co no panev foruj ge enuwiblum fiibi tebosot albi uhkug meh lememwag sadcekfu. Maskulric kesveg sewilkos uwzagnuk uc zazrowu epja pun aspe harodled dokehmu tobodof uki ke gihujug me.",
+    "bio": "Fu wudic nouwele aztu suddo zuwe evaluh ur wucoruji ufjej husri hatew jigocic. Mewasu fuuni piehe timolew pocmezef so di telna roh cula lapica verra fu re jeh debab. De fuf biwcu seedu tod hofpacaw vauze nuda eneoljir sirbajuj zakajip juvak gechigo umebo motmaot fosogpal. Ifa ti vo wozsuz fo joas cesa meropkuv pudni sozco itoheeh ado fametto."
+  },
+  "apiKey": "492ce65c9342ac0b62af7e890ae9bcb3331dd55f4e37f44c30688968afc0bb69",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
