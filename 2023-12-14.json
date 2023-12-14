@@ -1,0 +1,26 @@
+{
+  "name": "Martha Moody",
+  "age": 35,
+  "address": {
+    "street": "Dawor Trail",
+    "city": "Unuzesdu",
+    "state": "CO",
+    "zip": "37103"
+  },
+  "contact": {
+    "phone": "(273) 939-9471",
+    "servicePhone": "800388324"
+  },
+  "birthday": "1999-07-21T01:17:12.559Z",
+  "ip": "222.250.206.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Biz boha bo faiv inkaska uceadapej ukede toosuwi emiropo ubecot azec pi hoab heuc laroc lanuta. Focjuz mij be vopij jerano jo gefimca duk ka kejvuf jut fame ak. Nemawban kejni oszip fufmem hef po zehap dehdecuz cutlod iznadak zorer uf topo te. Sefa ifiaj bigiuga ahtinuj cizi eg fej bal da cagupausu fe buvij ba janidem wigne fuwolki.",
+    "bio": "Ru fotolib sior zap vezzusgik guitujoj ca giow cahvef ozgut zefcaar redi. Ewi vonobjo wiv vuf cu ewe povof gajogi dut rifbukbun ildi isdin nevoku atuzu paveh. Afsujeci je moluhe uveamriz ger raz cubmukit emunaka ek ap isiof pinfutrem hi galicug ela obumekjur fupgi."
+  },
+  "apiKey": "302b412a5277da2021aa1bff2813de48ab15c3fff6960bd2a92f96a287083520",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
