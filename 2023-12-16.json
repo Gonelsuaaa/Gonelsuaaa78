@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Wise",
+  "age": 22,
+  "address": {
+    "street": "Kouke Ridge",
+    "city": "Bedido",
+    "state": "AK",
+    "zip": "72341"
+  },
+  "contact": {
+    "phone": "(941) 661-7962",
+    "servicePhone": "800942287"
+  },
+  "birthday": "1976-04-08T19:30:48.432Z",
+  "ip": "156.185.52.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Nul ac kem essib res jubofig ro segunse kajkus mim zifudin pib je wu temserha. Noojaal ucipdek tiguhiges racaboj ra awzirti apauhuta posgowoh rera reme nutal gi lifouh. Wuhjoc ariih we woikcij keg bip ti voziviv hecijefe ra zer si mal fiswe ro cel.",
+    "bio": "Se wer madeug curfa ruzoaja eh kubdu ufofuv wonvo tatri fezligfu sodan jatu fufewred awaguk biura. Ravmiuvi firovi vami hiwwi vildavce jeses ojute ihi en ru doir ina jiah. Sanof co gab tufavo jokhud wo ezulut inaba emizabaha jennisol kojbeh ehhavi."
+  },
+  "apiKey": "35ca399f4343353f688df9c1d1c2d9163e5bcc169dfe9c1eafbc48566215d8e1",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
