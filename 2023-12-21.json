@@ -1,0 +1,26 @@
+{
+  "name": "Francis Armstrong",
+  "age": 35,
+  "address": {
+    "street": "Ipuol Place",
+    "city": "Deeleva",
+    "state": "OR",
+    "zip": "86505"
+  },
+  "contact": {
+    "phone": "(972) 473-3871",
+    "servicePhone": "800771598"
+  },
+  "birthday": "1985-06-22T17:00:09.981Z",
+  "ip": "252.222.115.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Acubif zovjasuf durcem falahba levimir zuhva uvozu wektogi nuhi jujas nutumta sa hejahket va ecco entamen siwifabi. Ko iwoze hoekuwup bain mepmo uzeerha gozidof na iza lodrafder tabodze jazufo ko zufijni fi. Sew vicgab pusawi ogovo wun ku caf def aljaw agaij dos isca jodcivsam. Boget et sikgodi wat lipsuk nauhu ik arecoase guhetose as romes me jo muwjogu fon ijdon dok.",
+    "bio": "Ika en im ahwaz dig pelbozpom nacad tewi rogeog tirbi sembewe haziw. Hiisuvu owibafon atutoga esumived zaf lut enze kit fi haefwug nogziltul teova do kupsawga ogadad onged di. Virit com deogunav lumas filizi wiweh zoj si zu veboca ak kujwiznu usofpi nevu lewtaviw vos noza wo."
+  },
+  "apiKey": "9a153d7bb8a72265515974a725b8800f3d8a33a3217be3c79bd9e62bae319837",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
