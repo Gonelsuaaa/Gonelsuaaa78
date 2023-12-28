@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Page",
+  "age": 27,
+  "address": {
+    "street": "Honbe Heights",
+    "city": "Guwotgul",
+    "state": "VT",
+    "zip": "57828"
+  },
+  "contact": {
+    "phone": "(710) 387-4967",
+    "servicePhone": "800372972"
+  },
+  "birthday": "1994-05-30T17:22:33.389Z",
+  "ip": "172.45.234.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiud ir ehatig bucnohu sahhaag iv lezetdeg hifarime kubogaz iho jefal vuiwmi avhocbak dornakku tijanu. Naluh hume dihogfib jibo subhufbo je isoggih efaovo si bewbevaru em dewpa batib notulzo uj onu medozisoz. Ko bocu citijuf fifkuno zet febjaeto bebak vusre win pigwapka ki jaeripe ti komhuoho bijjas kes taki.",
+    "bio": "Vattales zifuhwob ko botieme dagdobzir tefud dap uzikun uvuzira muteb ci nofmopguj. Wo baane cuomigi canu cazodop iza na miwfu hupfutiv zindedbof pailiza ja fefapsi. Zenkulmik tuh bijjul pukowjil kuohe mis ow wif toc bowfaglu zuzernul hemgew."
+  },
+  "apiKey": "efa3eb49e0622b69e2ca317ff8e929ab9717b95d2c3dab5c4a5fd6ee47192d14",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
