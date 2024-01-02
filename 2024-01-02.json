@@ -1,0 +1,26 @@
+{
+  "name": "Mary Day",
+  "age": 60,
+  "address": {
+    "street": "Liinu Pass",
+    "city": "Wocuuwi",
+    "state": "ID",
+    "zip": "53461"
+  },
+  "contact": {
+    "phone": "(319) 405-9830",
+    "servicePhone": "800835236"
+  },
+  "birthday": "1984-03-04T16:25:33.053Z",
+  "ip": "205.216.126.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Loti buvti du tajcu muwo woegoove renurgi pokad fu nizet aj otje ziera magi gawra ilaza kunnentar asruwi. Ajohebju olecezzo vilev uvonidku horiwsi lohefki bek dudutel hidu wez wuse ca bokzopop. Migniupu enabatat wi petipit suilfop peferwu viciwuv lipe zaw set he fip pir oz osafeve. Mogickis pul enumum eza duhatas ofiil oma suvi niboruhi ugi han pesgar jajse geuda. Wi lowagcoh bege ewokevjen onatoh nicu fuggemom neudakud tofet bile zubezo tobawah sezemul adeazji in bihuf. Kig idhag se ucabina ku du ki ka dabacab bumfu zibeksuv anoc keroh rezogku vebbifob zicaw lujise ca. Poami oj gavew dak vutfoj gi fu kuj zika ezoes movnoj ivgubibo.",
+    "bio": "Zen bupla faazimec vegweuna makag semipepuh se irzuzok wuchovwur bivki tujasu rihgel ove pemu. Bezvi zaliz saduv rab onizeek zike ergoso sadnim ap vailgo juwaleotu er dim ju ocaupu itmatef. Moru sietpew rifal kahacaj re onasu nihokar gocho jisvu jot vaporuot fuosti."
+  },
+  "apiKey": "d91df9e929f4f4e015a5037ec6e37d646a08d4a762207528f4fd6e9c8c36f1a8",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
