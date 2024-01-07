@@ -1,0 +1,26 @@
+{
+  "name": "John Mann",
+  "age": 27,
+  "address": {
+    "street": "Bagah Street",
+    "city": "Kalori",
+    "state": "IA",
+    "zip": "97882"
+  },
+  "contact": {
+    "phone": "(917) 286-3105",
+    "servicePhone": "800519948"
+  },
+  "birthday": "1979-10-15T22:28:21.337Z",
+  "ip": "129.17.16.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiv ope lededni rawca uzis aj pobogu uv lop nal jolsemo jip basdi nucapno. Ciwma ib gobij jonzarpug wodgu pa juwu obecuwon mi vakafmis otwi lap girdutogo. Bu dazekled pa orul japih op as woahu wo lelkoc ketzag derida gal to lab anje. Izsirdu tijlospi tirreg uz zonok we dawuga julel de abup juruhoeze bavaniuhu isihe sam ob raklevis desolija dev.",
+    "bio": "Hibdizned azeco edilu numec ugotaloh te ijeiso jivno jite kis duge nel fa uvwibo dalouji ifawo gusum uhuuhbet. Lag jepecpac gosokpem vizothag fuit hodivod wepbobgi ga nahime niige luz tekudpib sef. Jeuha ug cisri ki bod nokobe jez he ecakuf ral rawihece gi raazake tuikhi wunwid rucsevi ru watcu."
+  },
+  "apiKey": "557f9ccbad039fb61e93b57404a1517d2f566bfa46da3a10426ed5d859906c94",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
