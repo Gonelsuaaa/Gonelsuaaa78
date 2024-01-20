@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Tucker",
+  "age": 18,
+  "address": {
+    "street": "Felum Avenue",
+    "city": "Gijtoged",
+    "state": "MN",
+    "zip": "95011"
+  },
+  "contact": {
+    "phone": "(518) 422-4494",
+    "servicePhone": "800621486"
+  },
+  "birthday": "2000-10-28T21:29:36.140Z",
+  "ip": "102.101.228.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Mape de na wa hisiccu monvofa luoklu wigujzab fi ibeod miwuiz kusre egko mulopub. Vuug povi da ku giluv ofpi ifazoev lewjo wuoze kedkuw buhil titof. Uljo wiw awugu mocbisze vin junilome abe abu fofje seisasam mebhon pe ko. Onevogcaw rueg ofvala acvug ec cu ofupami gidgega pefmucosi zeembif ve towic rilfe sotpupug deldul bosbi dun. Dauw katmupdo hoterac zojuk irozekcih nipku duike mizjici oj cik reed en koj. Tuijizuk gihur ug se ve uwuotpiw ijmazdih ogo lur wot vi as va bilonli mag luh muddir.",
+    "bio": "Izatan lelu vil wegeweh kak ihka zac fonehwu kuv dilijiro iharrav ov. Cubgi tictu hos cieno ivmail runsiicu tazoknar durte eplogi fem sizik ajgudu iw cun bemeemi dih fi. Eru ikutama dig ocfog ebomjad soducnun mopno civcot guitsi ket kutwuk torbifbik bife wulhiet megiicu uv ugisuczol. Isahahduj evnur no segu sanwa wicouce mener pa su ateruvfu bemi urvuvil lojo picataj. Wum avhez de mozeh letommev ku asaketek ufano tep lote mulwum nejic julguj seca. Jahe avowislur wo rohil kori vilwobag robdevbur vefa bu ogiwo fu lirelut kanra zopoj roanhu epulas. Ha agioktiw diwuwe lo pomzazeku ankouza ufejun labap hofme enu ne das ub wo pomoc waslo."
+  },
+  "apiKey": "7a36a87b3e8020cdd29f29f3e6114287bc408bd3683bc0d961ea90a4fb30fbc7",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
