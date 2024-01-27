@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Fernandez",
+  "age": 31,
+  "address": {
+    "street": "Zaka Drive",
+    "city": "Upfedu",
+    "state": "IA",
+    "zip": "69555"
+  },
+  "contact": {
+    "phone": "(971) 559-3241",
+    "servicePhone": "800358727"
+  },
+  "birthday": "1962-05-26T11:54:11.471Z",
+  "ip": "28.101.121.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu tuvi lecem ite va asfewog dufsiz jabi to nolehu waw babfojo jejonva lo. Osrivduv vat we vuk od sic te zat hivi et woltep isbuc bibople cuhe adsi wol. Iru pekvawwoc hek givis vagiwemil gur huva ce gov inroule su uf.",
+    "bio": "Luhe va rasapha hifun sidekzol wicufco awwo ce hukac tegcompe sa ememata pece. Raopmoc hu wumhej fu aro hupolop zatot mitimuza men uldoira nop uluri hevkop zez rutanci povadgob. Ab jisdavnu sojedu watik suwuun be to ezilip busti fubtowaro vepnas ocebuvta ziwtuizo ipumo adamok uhferdap pitsirgan bowka."
+  },
+  "apiKey": "c36b20772b094a3cd8afe6b972a71db8f1dd1c8e0d94e19188e37fd0edce5b21",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
