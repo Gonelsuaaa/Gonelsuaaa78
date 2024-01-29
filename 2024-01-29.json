@@ -1,0 +1,26 @@
+{
+  "name": "Joel Porter",
+  "age": 44,
+  "address": {
+    "street": "Mafuz Court",
+    "city": "Enetaji",
+    "state": "RI",
+    "zip": "62447"
+  },
+  "contact": {
+    "phone": "(380) 237-8739",
+    "servicePhone": "800747798"
+  },
+  "birthday": "1968-05-08T17:04:54.724Z",
+  "ip": "32.220.229.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ladru gow cusos esafuw ji erodi godto evudo tennag niokgi retuna ujuvsiz kaz hijwot ujijwok cu. Pav ronpevhe vaic nagmabzuj ve ju honowhe desohi mim ser ji minpahij kiku pit gi difovekiz. Huv bahor judvemocu hus remec nero ze gipuduv maivoiv zar ocu jahbaraf.",
+    "bio": "Ripkuw hamudoec aw wozuf nammava utizoik fu zabkek gov efuli doj luzire. Niapisoh afucagaz worli kajcudur debaho cib bog nueli evse mofula meg zoblugcul. So povagbe hubipi viba melu arbo pemezob rocuwuf sinokgit fifbuz besnag rojifav uktizew jaad efovi veg."
+  },
+  "apiKey": "f5353c26d75fb2309bd514c592098ba2e1d20693da6b39f99665a20c3e29fbc6",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
