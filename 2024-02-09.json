@@ -1,0 +1,26 @@
+{
+  "name": "Albert Horton",
+  "age": 22,
+  "address": {
+    "street": "Hobfoz Mill",
+    "city": "Zaaloob",
+    "state": "MO",
+    "zip": "72818"
+  },
+  "contact": {
+    "phone": "(322) 863-7600",
+    "servicePhone": "800159228"
+  },
+  "birthday": "1968-11-13T10:31:34.740Z",
+  "ip": "180.150.171.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Kahovkin ohjouw lo bo oca ug barusibez ufrusde vezzop gi se zar itwum teej moefoko. Wah vupap vil ku ce upehem wocumvul jeztalip ceju fevavic cabova mimib si sovpallog gegugmu aw. Ama zab palni ci doh ahasihad vaprut ratomev ne lawji nil mewobcaz.",
+    "bio": "Sez hi ka behoser rah manzud evusawem jupuh oroapke tu pin azegu ur. Laucfo hediw dizuda ulatidfe pudhifef ve povu noobe vesub epfop feb tavge vispino erhud uvbarap. At cafgeves cijevaza mozigu ava du caddaki jutjohfuk kowuc rite ke olgijus sekebi kuwnegov amzigtin wa in wi. Pormo oziceba pearah ramalloc bu hirelza vegu gigacetet gu tamtumat tarpir icu ber guerbec ceg. Lo raed vufi oceaplaw ebdu abiumumuc ho ilnej silrugmaz watwos hagad le ba asijalwej. Cov ja ipapofku kot fuk erjizdi ode fogwalru riifozut zuortom cob vawizife uv. Pu sizizja joolu joibbur fe usuvaki ga ep vihapov gu surab esmedej fo."
+  },
+  "apiKey": "b7cba15cdd0965bd35a5f21b3687df52db01231309450137fd8c612518dbde7f",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
