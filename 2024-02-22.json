@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Greer",
+  "age": 27,
+  "address": {
+    "street": "Zaun Circle",
+    "city": "Sawuvap",
+    "state": "WV",
+    "zip": "26315"
+  },
+  "contact": {
+    "phone": "(361) 497-1798",
+    "servicePhone": "800916118"
+  },
+  "birthday": "1987-11-28T07:59:47.638Z",
+  "ip": "5.194.134.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Zupivde wejiho kurnipzo uvru gunsog noktaimo votop zazdup vulicir ijduknu tigi gomhu utewidul zifsikjah gomab ki ebhipidu vawu. Be ome de irewa vu podi ruccaci reta nofotez cudov ri utesnim. Sohkuf tumuf ose wupofu gujfubuh cima ebosoz zajorfel jidzeow gowha vul nib kiitu gijpava eta ikgal medinfel cak.",
+    "bio": "Umvodno cobofaz fothi ilno ukpome maplalik awapifsu wunzofaw wabecu bef gaj peg sozino ujewoz fefe let fuz. Vinof gej gevre giluguz vic jipene nalsokki kowzojeg uzaini hed kazim kuatagur de jojifsov ire kioje. Muelhif wace ozubo gawwin cipnef dage noktuv kiv ge somsuro bodovni vevzum bewuiw."
+  },
+  "apiKey": "0f8fbdd6e9813ce92198042e49ba7707163a5a71b9e99a8d478e2b52c5953e4e",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
