@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Casey",
+  "age": 20,
+  "address": {
+    "street": "Nafan Turnpike",
+    "city": "Rakdikat",
+    "state": "CT",
+    "zip": "99441"
+  },
+  "contact": {
+    "phone": "(847) 832-2292",
+    "servicePhone": "800956253"
+  },
+  "birthday": "2004-01-13T15:38:57.787Z",
+  "ip": "154.251.156.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Wodpoheg ojaisi dujokda co kibutal udunetdif osujihno givanisav kap kizviz pip ulsalti vizi so apralit. Mikwos vadkigmo taf avikej faza gejjo zawbibu ozgi id sid li gur hotume sin iveicvo. Kumcafpac osdede apa gacilub ba ivuwu nos iva mozame wipo tel usaipu diglehbi. Zikerva fe getoun fad jakli zot sa zaji so wu vul ni aci.",
+    "bio": "Lubsi ipsuw hob bec lafhinci rabuvub fire jeciriji danu gosoan doba ojufawos. Uhe itvumcat tospemoz zuazuli womazeh ril omjezpu jonlephi za hesisjat bokab kivuhkur gozda motve agnap mo. Lepsul beatosil lijmi fokhocla hu forikzes kivad duw rovibboc cipsiisa letihu bih ihnu akiricgad zidanmib lobiuje wijnis nokian."
+  },
+  "apiKey": "13eee210eb3651ec2ae9ae96265720b4170d7fd1a91e4551584fee481812e99c",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
