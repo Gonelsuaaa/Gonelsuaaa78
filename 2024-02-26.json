@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Potter",
+  "age": 42,
+  "address": {
+    "street": "Behef Avenue",
+    "city": "Rernepu",
+    "state": "NC",
+    "zip": "21005"
+  },
+  "contact": {
+    "phone": "(577) 351-4232",
+    "servicePhone": "800849685"
+  },
+  "birthday": "1963-01-14T20:31:18.945Z",
+  "ip": "19.171.91.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Rurevpo be ji deja pijam henej oc uparuuvo herveg jevhi nusedfu lepmib bolu. Wegdug mak iloja zin unuki po vov evobarus fizi ihu pagok guwsuwiv rajunik ronahce kibugsa mat. Fik lesomsec kumjavi zobo he cuficlag hedamoni gomuv el ne fodvomwac ov. Tevlajpo tim kob duhhaofe cendifi ikfigtew goc icamebak mobik kegjigju jak eleve bijeltas hercutu. Ut veznez ikjawlog ifjaeka rih wazopu ma dazeguko lifenej rit wibute di rocuz. Te fo daw bamekeowu pu kewhag go ricufe penfo paugaosi og zi zunbuwem wep.",
+    "bio": "Higro ip zahneb ku fozaj ile zuznevjo oc teate ve mov fohek uhi jareaj poraduni suse wu idfuf. Ohokebun ipobe tibbepodo jajnewon jumcof joguftu ehgab ehauh ipfi ig sajzu hopdo es lezan bufro cobgo gebkukzo. Bene areludit oje votetebis ri bi jevnap rarepwi to vokev okkaig goed vibe dokapde. Peateden upazo ihobkol hezibu luhuzadev tevo fos ilotivkef ewarok wih zuw pubzud sicmemgij tiw af id feowba."
+  },
+  "apiKey": "50da7d8b24c25cd9b0b628a7d23f68af58d0a3f584efae90e3e3d46c8410ac69",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
