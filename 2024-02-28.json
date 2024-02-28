@@ -1,0 +1,26 @@
+{
+  "name": "Pauline Bridges",
+  "age": 24,
+  "address": {
+    "street": "Zekhi Terrace",
+    "city": "Vohbuzjon",
+    "state": "DE",
+    "zip": "41184"
+  },
+  "contact": {
+    "phone": "(713) 636-4395",
+    "servicePhone": "800639813"
+  },
+  "birthday": "1993-11-16T00:44:26.237Z",
+  "ip": "54.82.65.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Fa coli izigij migizum idzala luugoam dupjov ferale boke ca uso ja fa ma zi posrajbom. Tos tur tuhug ce datap vebmeh kirkepjot foz nehso rehfaif sof sov fu faljubit cornodjaw pa ijuakuzih paluap. Egetufdef efa uw onvuttor homdaweke hi hukwehra fifogahe etekasu avacid kehogti hahce. Esa ka ulbogul sarpah gunuun gu regwazbis ad jija ur selkube su ig magac bi mojninut.",
+    "bio": "Kosadnoh wieliak enta af bodi zokdedva ducvigha racnok rewpaw ukdeoma zov fusin asco homcu ja. Evdedvo pet semah folpenmu ceziflos soud kikbu ero logifko do oc amzucu. Cisutopa zuez dibe vonifim fehi co de bufneh juj co zer girzu jama agawu lifit woub sofefwuk uwailhi. Zas afo kaceh hizlu ipa zos nuisuij owuok zubut zutsewce hisawimoz harsomnak serceva sew gohuze re pobu cu. Tun utocuhaz vo tawhimiz ijamigo feaf vepa hubgevu vizukce niok ve zu."
+  },
+  "apiKey": "7b1da9f2024d6083ea5ecb80313f6783d7b01a29f0d7ae33121ae073764cafa8",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
