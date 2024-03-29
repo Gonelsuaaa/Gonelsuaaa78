@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Garrett",
+  "age": 23,
+  "address": {
+    "street": "Putow Plaza",
+    "city": "Bemnubra",
+    "state": "CA",
+    "zip": "78412"
+  },
+  "contact": {
+    "phone": "(583) 690-1297",
+    "servicePhone": "800739585"
+  },
+  "birthday": "1989-09-06T14:03:54.652Z",
+  "ip": "244.151.84.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Za laokni idoti muc sufelujo lutzev vuipoga wescinso vuba osa te jaup lar. Laoz ede nod mil tuaral kocsazfun wu nu ji padfavuf mosmuh fetwuna nuj iwo zaj hama. Dohju tubiafe gojom muvmabo za zuzu pog edowa cup nar towhaftu laagikil cekrovi abhu caw. Row walavpib irpo pahaz hu ivovozli mamuvobe ubo gibwadeb fus givi lohmaw tebza.",
+    "bio": "Mo jur mutu vogderi foufge givgopar ve jerod kac mefu ho na siwvefse pik run ci zumohe ha. Ciw wu nokpaz haligaj ne kuelci nufu campac uwohegzoh torow lilbupruw hib kerkuaki if urelivol nildod hikew leptaki. Vi hik coboni at set naw ridodaho egkukde posa govipsus rujuka vifeeve."
+  },
+  "apiKey": "6761bb58a2ca08e98190fbcfe5a1528023e5171151651a58a8b825e77ec57738",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
